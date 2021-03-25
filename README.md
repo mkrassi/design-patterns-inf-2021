@@ -1,2 +1,2 @@
-# design-patterns-inf-2021
+# Design patterns - Информатика 2021
 Design patterns course
